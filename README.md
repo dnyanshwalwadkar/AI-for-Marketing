@@ -1,4 +1,17 @@
 # AI-for-Marketing
+@dnyaneshwalwadkar d.walwadkar@se21.qmul.ac.uk
+## How to Design an AI Marketing Strategy
+Views from @Harvard
+
+Of all a company’s functions, marketing has perhaps the most to gain from artificial intelligence. Marketing’s core activities are understanding customer needs, matching them to products and services, and persuading people to buy—capabilities that AI can dramatically enhance. No wonder a 2018 McKinsey analysis of more than 400 advanced use cases showed that marketing was the domain where AI would contribute the greatest value.
+
+## Today’s AI
+Many firms now use AI to handle narrow tasks, such as digital ad placement (also known as “programmatic buying”); assist with broad tasks, like enhancing the accuracy of predictions (think sales forecasts); and augment human efforts in structured tasks, such as customer service. (See the sidebar “Well-Established AI Applications in Marketing” for a list of some common activities AI can support.)
+
+We believe that marketers will ultimately see the greatest value by pursuing integrated machine-learning applications, though simple rule-based and task-automation systems can enhance highly structured processes and offer reasonable potential for commercial returns. Note, however, that nowadays task automation is increasingly combined with machine learning—to extract key data from messages, make more-complex decisions, and personalize communications—a hybrid that straddles quadrants.
+
+### For This Project - 
+
 Marketing is crucial for the growth and sustainability of retail business.  Marketers can help build the company’s brand, engage customers, grow revenue, and increase sales. AI can star change maker for Product Marketing &amp; Business Boost.
 * EDUCATION :- (Marketers educate and communicate value proposition to customers)
 * ENGAGEMENT :- (Marketers engage customers and understand their needs)
@@ -31,6 +44,8 @@ clusters
 centroid
 6. Go to step 4 and repeat.
 
+
+
 ![alt text](https://github.com/dnyanshwalwadkar/AI-for-Marketing/blob/main/ELBOW.png)
 
 # AUTOENCODERS INTUITION
@@ -38,4 +53,6 @@ centroid
 used to perform a task of data encoding (representation learning).
 * Auto encoders use the same input data for the input and output,
 Sounds crazy right!?
+
+
 ![alt text](https://github.com/dnyanshwalwadkar/AI-for-Marketing/blob/main/AUTO-Encoder.png)
